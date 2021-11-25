@@ -1,0 +1,90 @@
+body { /** esto te cambia el fondo de pantalla**/
+	
+	Font-family: "Arial", serif;
+background-color: grey; }
+
+h1 {/** center: este te centra el texto; y el otro te cambia el color de las letras**/
+	text-align: center;
+	font-family: 'Lobster', cursive;
+		color: white;
+		padding: 80px;
+	}
+
+h2
+	{text-align: center;
+		font-family: 'Montagu Slab', serif;
+		color: white;
+	}
+
+h2 
+	{
+		font-family: 'Titillium Web', sans-serif;
+	}
+
+
+h3	
+	{font-family:'Montagu Slab', serif;
+		text-align: center;
+		color: black;
+	}
+
+h4	
+	{text-align: center;
+		color: blue;
+	}
+
+h5	
+	{text-align: center;
+		color: yellow;
+	}
+
+h6	
+	{text-align: center;
+		color: white;
+	}
+
+ol 
+	{text-align: center;
+		color: white;
+	}
+
+p 
+{
+	font-family:'Barlow Semi Condensed', sans-serif;
+}
+p
+	{margin-left: 90px;
+	font-size: 20pt;
+	color: black;}
+
+a: link 
+	{color: blue;}
+
+a:visited {
+	color:white ; }
+
+ div {
+ 	background-color:yellowgreen;
+ }
+ span {
+ 	text-decoration:line-through
+ 		background-color:red
+ }
+
+.marron 
+	{
+		color: brown;
+	background-color: peach;
+}
+
+.superimportante
+	{
+		text-align: center;
+		background-attachment: red;
+		text-emphasis: overline;
+		border: 5px;
+}
+
+td{
+	padding: 50px;
+}
