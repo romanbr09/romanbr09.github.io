@@ -1,0 +1,32 @@
+p
+{
+	/*margin-left: 18%;
+	margin-right: 18%;*/
+	color:red; 
+	/*background: yellowgreen;*/
+
+}
+
+.flotar {
+
+	float: left ;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+.colocar {
+	clear: right;
+}
+
+.ayer
+	{
+		float: right ;
+		margin-right: 1em ;
+		margin-bottom: 1em ;
+	}
+
+.estocansa
+	{
+		float: left;
+		margin-right: 1em;
+		margin-bottom: 1em;
+	}
